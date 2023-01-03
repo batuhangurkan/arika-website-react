@@ -1,0 +1,1 @@
+console.log("[!] Designed with 💙 by batuhan (github.com/screwdev)")
